@@ -29,3 +29,15 @@ pip install pygame
 git clone https://github.com/yourusername/asteroid-escape.git
 cd asteroid-escape
 python main.py
+```
+Captures d'Écran
+
+
+Contribution
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer le jeu ou ajouter de nouvelles fonctionnalités, n'hésitez pas à ouvrir une pull request ou à signaler des problèmes.
+
+License
+Ce projet est sous la licence MIT.
+
+Contact
+Pour toute question ou suggestion, veuillez me contacter à mamadoudjibo22@gmail.com.
