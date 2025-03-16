@@ -33,11 +33,11 @@ python main.py
 Captures d'Écran
 
 
-Contribution
+###Contribution
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer le jeu ou ajouter de nouvelles fonctionnalités, n'hésitez pas à ouvrir une pull request ou à signaler des problèmes.
 
-License
+###License
 Ce projet est sous la licence MIT.
 
-Contact
+###Contact
 Pour toute question ou suggestion, veuillez me contacter à mamadoudjibo22@gmail.com.
